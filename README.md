@@ -4,7 +4,6 @@
 
 Sorting large datasets efficiently is a classic real-world problem. This solution:
 
-* Reads a large dataset of integers from a file.
 * Implements Merge Sort, a divide-and-conquer sorting algorithm.
 * Measures execution time for different dataset sizes.
 * Provides linear and log-log plots of execution time versus dataset size.
